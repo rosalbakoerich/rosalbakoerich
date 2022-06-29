@@ -1,6 +1,7 @@
-- 👋  Olá sou nova aqui no GitHub
-- 👀 Estou interessada em aprender mais para acessorar meus alunos.
-- 🌱 I’m currently learning ...
+:smile: olá!!!
+sou nova aqui no GitHub
+- 👀 Estou interessada em aprender mais para acessorar meus alunos durante as aulas de P. C.
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
